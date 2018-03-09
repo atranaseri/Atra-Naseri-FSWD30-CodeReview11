@@ -1,0 +1,28 @@
+<?xml verdion="1.0"?>
+<catalog>
+	<location id="001">
+		<address>Himmelstrasse56/1190 Wien</address>
+		<number>5</number>
+	</location>
+
+	<location id="002">
+		<address>Haberlandtgasse72/1220 Wien</address>
+		<number>6</number>
+	</location>
+
+	<location id="003">
+		<address>Laxenburgstrasse100/1100 Wien</address>
+		<number>3</number>
+	</location>
+
+	<location id="004">
+		<address>Sant-veit-gasse67/1130 Wien</address>
+		<number>3</number>
+	</location>
+
+	<location id="005">
+		<address>Wallgasse13/1060 Wien</address>
+		<number>3</number>
+	</location>
+
+</catalog>
